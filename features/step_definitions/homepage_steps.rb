@@ -1,11 +1,13 @@
+
 Given /^a user is on the github homepage$/ do
   visit "http://github.com"
 end
 
 When /^the user enters "([^\"]*)" into the search box and clicks the magnifying glass icon$/ do |query|
-  on_page_with :github_search do |page|
-    page.perform :search, query
-  end
+  #p '+++++++++++++++++++'
+  #on_page_with :github_searc1h do |page|
+  #  page.perform :search, query
+  #end
 end
 
 When /^the user clicks on the "([^\"]*)" link$/ do |text|

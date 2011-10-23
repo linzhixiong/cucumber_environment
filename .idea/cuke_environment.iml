@@ -4,13 +4,19 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara (v1.1.1, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="rubyzip (v0.9.4, RVM: ruby-1.9.2-head) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="activesupport (v2.3.14, RVM: ruby-1.9.2-head) [gem]" level="application" />
-    <orderEntry type="library" scope="PROVIDED" name="json_pure (v1.6.1, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="childprocess (v0.2.2, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="json_pure (v1.6.1, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="gizmo (v0.1.1, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="tilt (v1.3.2, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.0.0, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v1.16, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xpath (v0.1.4, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v0.6.1, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v2.3.14, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.5.0, RVM: ruby-1.9.2-head) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber (v1.1.0, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="bundler (v1.0.17, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="ffi (v1.0.9, RVM: ruby-1.9.2-head) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v2.8.0, RVM: ruby-1.9.2-head) [gem]" level="application" />

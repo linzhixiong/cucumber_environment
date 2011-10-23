@@ -16,6 +16,7 @@ module PageWithGithubSearch
   end
 
   define_action :search do |query|
+    p '__________________-------------------------'
     fill_in search_form.input.attr('name').value, :with => query
     click search_form.submit.attr('alt').value
   end

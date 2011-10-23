@@ -1,0 +1,3 @@
+[submodule "gizmo"]
+	path = gizmo
+	url = https://github.com/icaruswings/gizmo.git
